@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # Bank Loan Risk & Performance Analysis | Excel Dashboard
 **Microsoft Excel · Data Cleaning · Pivot Tables · Dashboard Design**
 
