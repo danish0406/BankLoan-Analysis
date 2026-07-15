@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Bank Loan Risk & Performance Analysis | Excel Dashboard
 **Microsoft Excel · Data Cleaning · Pivot Tables · Dashboard Design**
 
@@ -196,3 +197,6 @@ This project was developed as part of a portfolio demonstrating data analysis an
 =======
 BANKLOAN-ANALYSIS
 >>>>>>> e109f55653f8f2d004ef9853d81fc5ea115f7cf7
+=======
+
+>>>>>>> 9399f009083610906f2bc46a88f16b0e8ddec1bc
